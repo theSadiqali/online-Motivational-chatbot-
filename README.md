@@ -16,6 +16,8 @@ Live Demo (when hosted): https://huggingface.co/spaces/your-username/motivationa
 - Works on Windows, macOS, and Linux  
 
 ## Preview (What It Looks Like)
+![Uploading image.png…]()
+
 
 ```
 You: I keep procrastinating and feel guilty...
